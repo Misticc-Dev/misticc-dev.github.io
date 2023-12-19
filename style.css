@@ -287,7 +287,7 @@ h3 {
 .flicker {
   animation-name: flicker;
   animation-iteration-count: infinite;
-  animation-duration: 1s;
+  animation-duration: 0.5s;
 }
 
 .theme-container {
